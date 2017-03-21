@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-bdpush",
+  "version": "1.0.0",
+  "description": "A baidu push cordova plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianling/cordova-plugin-bdpush.git"
+  },
+  "cordova": {
+    "id": "cordova-plugin-bdpush",
+    "platforms": [
+      "browser",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "push"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "jianling",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/jianling/cordova-plugin-bdpush/issues"
+  },
+  "homepage": "https://github.com/jianling/cordova-plugin-bdpush#readme"
+}
